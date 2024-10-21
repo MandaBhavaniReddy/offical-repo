@@ -1,0 +1,4 @@
+This is a sample text file .
+which is a sample data existed.
+which is consist of the some command to some program.
+and commit the repositary.
